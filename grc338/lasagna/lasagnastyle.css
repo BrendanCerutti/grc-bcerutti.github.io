@@ -1,0 +1,75 @@
+/*CSS DOCUMENT*/
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat&family=PT+Serif&display=swap');
+
+div.container{
+	max-width: 50em;
+	margin: auto;
+}
+
+div.intro{
+	text-align: center;
+}
+
+div.maincontent{
+	text-align: left;
+}
+.ingredients ul{
+	text-align: left;
+	background-color: rgb(247, 226, 185);
+}
+
+.directions ol{
+	text-align: left;
+	background-color: rgb(247, 226, 185);
+}
+
+h1{
+	font-family: 'Lobster', serif;
+	font-size: 2.5em;
+	text-align: center;
+	margin-bottom: .08em;
+}
+
+h2{
+	font-family: 'PT Serif', serif;
+	font-style: italic;
+	font-size: 1em;
+	text-align: center;
+	color: rgb(138, 19, 0);
+}
+
+h3{
+	font-family: 'PT Serif'3, serif;
+	font-size: 1.5em;
+	text-align: left;
+	margin-left: 0;
+	color: rgb(138, 19, 0);
+	text-decoration: underline;
+}
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+}
+ul{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+ol{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+}
+footer{
+	float:right ;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 1em;
+}
+
+img {
+	width: 100%;
+}
+
